@@ -12,4 +12,4 @@ C: Load -- The final output was then copied from the Transformed directory into 
 
 Finally, I created a cron job in the crontab by echoing the commands to the crontab directly on the terminal instead of opening an editor such as nano. The purpose of this cronjob is to run the bash script called "scripts.sh" at 12 midnight daily.
 
-Let me know what you think of the project as well as ways where I can improve it...Regards,
+Let me know what you think of the project as well as ways where I can improve it...Regards.
